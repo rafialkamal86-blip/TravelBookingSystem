@@ -22,7 +22,8 @@ A Java console application for booking flights and hotels.
    ```
 
 ## Contoh Input
-- Tanggal: `2026-06-15`
+- Tanggal check-in: `2026-06-15`
+- Tanggal perjalanan: `2026-06-13`
 - Kota asal: `Jakarta`
 - Kota tujuan: `Bali`
 - Lokasi hotel: `Bali`
