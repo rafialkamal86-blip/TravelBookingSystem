@@ -26,7 +26,3 @@ A Java console application for booking flights and hotels.
 - Kota asal: `Jakarta`
 - Kota tujuan: `Bali`
 - Lokasi hotel: `Bali`
-
-## Catatan
-- Program menggunakan fitur Java 17 seperti `sealed` class, `instanceof` pattern matching, dan `stream` lambda.
-- Semua kelas menggunakan enkapsulasi dengan field `private` dan getter/setter.
